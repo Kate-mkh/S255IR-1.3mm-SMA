@@ -1,0 +1,2 @@
+#CRTFv0 CASA Region Text Format version 0
+centerbox [[06:12:53.62468, +017.59.22.1648], [27.3409arcsec, 23.1319arcsec]] coord=J2000, corr=[I], linewidth=2, linestyle=-, symsize=1, symthick=1, color=2ee6d6, font=Helvetica, fontsize=10, fontstyle=bold, usetex=false, label="forcleaning.reg", labelcolor=green, labelpos=top

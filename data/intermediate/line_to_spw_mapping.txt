@@ -1,0 +1,90 @@
+Molecule        Frequency(MHz)  Uncleaned SPWs            Cleaned SPWs             
+--------------- --------------- ------------------------- -------------------------
+CH2CO           224327.250      spw2_2                    spw15                    
+g-CH3CH2OH      243120.317      spw8_2                    spw20                    
+t-CH3CH2OH      234255.161      spw8                      spw8                     
+CH3CHO          226592.725      spw1_2                    spw16                    
+CH3CHO          234825.872      spw8                      spw8                     
+CH3CHO          244789.251      spw9_2                    spw21                    
+CH3CHO          244832.176      spw9_2                    spw21                    
+CH3CN           220679.287      spw0, spw4_2              spw5, spw13              
+CH3CN           220709.017      spw0, spw4_2              spw5, spw13              
+CH3CN           220730.261      spw0, spw4_2              spw5, spw13              
+CH3CN           220743.011      spw0, spw4_2              spw5, spw13              
+CH3CN           220747.262      spw0, spw4_2              spw5, spw13              
+CH3CN           239064.299      spw6_2, spw10             spw10, spw18             
+CH3CN           239096.497      spw6_2, spw10             spw10, spw18             
+CH3CN           239119.505      spw6_2, spw10             spw10, spw18             
+CH3CN           239137.917      spw6_2, spw10             spw10, spw18             
+CH3OCHO         216966.246      spw2                      spw3                     
+CH3OCHO         227563.734      spw0_2                    spw17                    
+CH3OH           213427.061      spw4                      spw1, spw2               
+CH3OH           217299.205      spw2                      spw3                     
+CH3OH           220078.561      spw0, spw4_2              spw5, spw13              
+CH3OH           227814.528      spw0_2                    spw17                    
+CH3OH           229589.056      spw6                      spw6, spw17              
+CH3OH           231281.110      spw6                      spw6                     
+CH3OH           232945.797      spw7                      spw7                     
+CH3OH           234683.370      spw8                      spw8                     
+CH3OH           234698.519      spw8                      spw8                     
+CH3OH           236936.089      spw9                      spw9                     
+CH3OH           239746.219      spw7_2, spw11             spw11, spw19             
+CH3OH           240241.490      spw7_2, spw11             spw11, spw19             
+CH3OH           240960.557      spw7_2, spw11             spw11, spw19             
+CH3OH           241206.035      spw7_2, spw11             spw11, spw19             
+CH3OH           241813.255      spw8_2                    spw20                    
+CH3OH           241843.604      spw8_2                    spw20                    
+CH3OH           241852.299      spw8_2                    spw20                    
+CH3OH           243915.788      spw9_2                    spw21                    
+CH3OH           247161.950      spw10_2                   spw22                    
+CH3OH           247228.587      spw10_2                   spw22                    
+CH3OH           248282.424      spw11_2                   spw23                    
+CH3OH           248885.468      spw11_2                   spw23                    
+CH3OH           249419.924      spw11_2                   spw23                    
+CS              244935.644      spw9_2                    spw21                    
+H132CO          219908.525      spw0, spw4_2              spw5, spw13              
+H2CO            211211.468      spw5                      spw0                     
+H2CO            218475.632      spw1, spw5_2              spw4, spw12              
+H2CO            218760.066      spw1, spw5_2              spw4, spw12              
+H2CO            225697.775      spw1_2                    spw16                    
+H2CS            236726.770      spw9                      spw9                     
+H2CS            240266.320      spw7_2, spw11             spw11, spw19             
+H2CS            244047.840      spw9_2                    spw21                    
+HCCCN           236512.777      spw9                      spw9                     
+HCCCN           245606.308      spw10_2                   spw21, spw22             
+HCOOH           236717.326      spw9                      spw9                     
+HCOOH           246106.087      spw10_2                   spw22                    
+HNCO            218981.031      spw1, spw5_2              spw4, spw12              
+HNCO            219798.247      spw0, spw4_2              spw5, spw13              
+HNCO            220585.200      spw0, spw4_2              spw5, spw13              
+HNCO            240875.856      spw7_2, spw11             spw11, spw19             
+OCS             231060.983      spw6                      spw6                     
+OCS             243218.040      spw8_2                    spw20                    
+SO              215220.653      spw3                      spw2                     
+SO              219949.442      spw0, spw4_2              spw5, spw13              
+SO2             221965.210      spw3_2                    spw14                    
+SO2             224264.811      spw2_2                    spw15                    
+SO2             225153.702      spw2_2                    spw15                    
+SO2             226300.027      spw1_2                    spw16                    
+SO2             235151.720      spw8                      spw8                     
+SO2             236216.685      spw9                      spw9                     
+SO2             237068.870      spw9                      spw9                     
+SO2             241615.798      spw8_2, spw11             spw11, spw19             
+SO2             244254.218      spw9_2                    spw21                    
+SO2             245563.423      spw10_2                   spw21, spw22             
+CH3CHO          235996.212      spw9                      spw9                     
++13CH3OH        235997.230      spw9                      spw9                     
+CH3OCH3         240978.250      spw7_2, spw11             spw11, spw19             
++CH3OCH3        240982.770      spw7_2, spw11             spw11, spw19             
++CH3OCH3        240985.067      spw7_2, spw11             spw11, spw19             
++CH3OCH3        240989.973      spw7_2, spw11             spw11, spw19             
+CH3OCH3         241946.201      spw8_2                    spw20                    
++CH3OCH3        241946.202      spw8_2                    spw20                    
++CH3OCH3        241946.497      spw8_2                    spw20                    
++CH3OCH3        241946.791      spw8_2                    spw20                    
+CH3OH           241806.525      spw8_2                    spw20                    
++CH3OH54−44A−   241806.525      spw8_2                    spw20                    
+CH3OH           241832.718      spw8_2                    spw20                    
++CH3OH53−43A−   241832.718      spw8_2                    spw20                    
+CH3OH           241904.147      spw8_2                    spw20                    
++CH3OH          241904.643      spw8_2                    spw20                    

@@ -1,0 +1,385 @@
+split(vis='spw15/spw15.contsub',
+      outputvis='splited/CH2CO_224327.250.ms',
+      spw='0:1212~1224',
+      datacolumn='data')
+
+split(vis='spw20/spw20.contsub',
+      outputvis='splited/g-CH3CH2OH_243120.317.ms',
+      spw='0:1543~1558',
+      datacolumn='data')
+
+split(vis='spw8/spw8.contsub',
+      outputvis='splited/t-CH3CH2OH_234255.161.ms',
+      spw='0:771~781',
+      datacolumn='data')
+
+split(vis='spw16/spw16.contsub',
+      outputvis='splited/CH3CHO_226592.725.ms',
+      spw='0:1074~1085',
+      datacolumn='data')
+
+split(vis='spw8/spw8.contsub',
+      outputvis='splited/CH3CHO_234825.872.ms',
+      spw='0:1280~1295',
+      datacolumn='data')
+
+split(vis='spw21/spw21.contsub',
+      outputvis='splited/CH3CHO_244789.251.ms',
+      spw='0:799~808',
+      datacolumn='data')
+
+split(vis='spw21/spw21.contsub',
+      outputvis='splited/CH3CHO_244832.176.ms',
+      spw='0:760~771',
+      datacolumn='data')
+
+split(vis='spw5/spw5.contsub',
+      outputvis='splited/CH3CN_220679.287.ms',
+      spw='0:896~910',
+      datacolumn='data')
+
+split(vis='spw5/spw5.contsub',
+      outputvis='splited/CH3CN_220709.017.ms',
+      spw='0:871~881',
+      datacolumn='data')
+
+split(vis='spw5/spw5.contsub',
+      outputvis='splited/CH3CN_220730.261.ms',
+      spw='0:852~863',
+      datacolumn='data')
+
+split(vis='spw10/spw10.contsub',
+      outputvis='splited/CH3CN_239064.299.ms',
+      spw='0:1493~1507',
+      datacolumn='data')
+
+split(vis='spw10/spw10.contsub',
+      outputvis='splited/CH3CN_239096.497.ms',
+      spw='0:1523~1537',
+      datacolumn='data')
+
+split(vis='spw10/spw10.contsub',
+      outputvis='splited/CH3CN_239119.505.ms',
+      spw='0:1544~1556',
+      datacolumn='data')
+
+split(vis='spw10/spw10.contsub',
+      outputvis='splited/CH3CN_239137.917.ms',
+      spw='0:1556~1571',
+      datacolumn='data')
+
+split(vis='spw3/spw3.contsub',
+      outputvis='splited/CH3OCHO_216966.246.ms',
+      spw='0:639~653',
+      datacolumn='data')
+
+split(vis='spw17/spw17.contsub',
+      outputvis='splited/CH3OCHO_227563.734.ms',
+      spw='0:1896~1910',
+      datacolumn='data')
+
+split(vis='spw1/spw1.contsub',
+      outputvis='splited/CH3OH_213427.061.ms',
+      spw='0:226~241',
+      datacolumn='data')
+
+split(vis='spw3/spw3.contsub',
+      outputvis='splited/CH3OH_217299.205.ms',
+      spw='0:341~353',
+      datacolumn='data')
+
+split(vis='spw5/spw5.contsub',
+      outputvis='splited/CH3OH_220078.561.ms',
+      spw='0:1434~1447',
+      datacolumn='data')
+
+split(vis='spw17/spw17.contsub',
+      outputvis='splited/CH3OH_227814.528.ms',
+      spw='0:1670~1682',
+      datacolumn='data')
+
+split(vis='spw6/spw6.contsub',
+      outputvis='splited/CH3OH_229589.056.ms',
+      spw='0:174~187',
+      datacolumn='data')
+
+split(vis='spw6/spw6.contsub',
+      outputvis='splited/CH3OH_231281.110.ms',
+      spw='0:1687~1700',
+      datacolumn='data')
+
+split(vis='spw7/spw7.contsub',
+      outputvis='splited/CH3OH_232945.797.ms',
+      spw='0:658~670',
+      datacolumn='data')
+
+split(vis='spw8/spw8.contsub',
+      outputvis='splited/CH3OH_234683.370.ms',
+      spw='0:1154~1165',
+      datacolumn='data')
+
+split(vis='spw8/spw8.contsub',
+      outputvis='splited/CH3OH_234698.519.ms',
+      spw='0:1167~1181',
+      datacolumn='data')
+
+split(vis='spw9/spw9.contsub',
+      outputvis='splited/CH3OH_236936.089.ms',
+      spw='0:665~679',
+      datacolumn='data')
+
+split(vis='spw11/spw11.contsub',
+      outputvis='splited/CH3OH_239746.219.ms',
+      spw='0:1729~1743',
+      datacolumn='data')
+
+split(vis='spw11/spw11.contsub',
+      outputvis='splited/CH3OH_240241.490.ms',
+      spw='0:1288~1298',
+      datacolumn='data')
+
+split(vis='spw11/spw11.contsub',
+      outputvis='splited/CH3OH_240960.557.ms',
+      spw='0:645~657',
+      datacolumn='data')
+
+split(vis='spw20/spw20.contsub',
+      outputvis='splited/CH3OH_241813.255.ms',
+      spw='0:377~386',
+      datacolumn='data')
+
+split(vis='spw20/spw20.contsub',
+      outputvis='splited/CH3OH_241843.604.ms',
+      spw='0:402~413',
+      datacolumn='data')
+
+split(vis='spw20/spw20.contsub',
+      outputvis='splited/CH3OH_241852.299.ms',
+      spw='0:411~421',
+      datacolumn='data')
+
+split(vis='spw21/spw21.contsub',
+      outputvis='splited/CH3OH_243915.788.ms',
+      spw='0:1579~1591',
+      datacolumn='data')
+
+split(vis='spw22/spw22.contsub',
+      outputvis='splited/CH3OH_247161.950.ms',
+      spw='0:1582~1595',
+      datacolumn='data')
+
+split(vis='spw22/spw22.contsub',
+      outputvis='splited/CH3OH_247228.587.ms',
+      spw='0:1642~1653',
+      datacolumn='data')
+
+split(vis='spw23/spw23.contsub',
+      outputvis='splited/CH3OH_248885.468.ms',
+      spw='0:712~723',
+      datacolumn='data')
+
+split(vis='spw23/spw23.contsub',
+      outputvis='splited/CH3OH_249419.924.ms',
+      spw='0:234~245',
+      datacolumn='data')
+
+split(vis='spw21/spw21.contsub',
+      outputvis='splited/CS_244935.644.ms',
+      spw='0:667~681',
+      datacolumn='data')
+
+split(vis='spw5/spw5.contsub',
+      outputvis='splited/H132CO_219908.525.ms',
+      spw='0:1589~1600',
+      datacolumn='data')
+
+split(vis='spw0/spw0.contsub',
+      outputvis='splited/H2CO_211211.468.ms',
+      spw='0:1624~1638',
+      datacolumn='data')
+
+split(vis='spw4/spw4.contsub',
+      outputvis='splited/H2CO_218475.632.ms',
+      spw='0:967~977',
+      datacolumn='data')
+
+split(vis='spw4/spw4.contsub',
+      outputvis='splited/H2CO_218760.066.ms',
+      spw='0:1221~1233',
+      datacolumn='data')
+
+split(vis='spw16/spw16.contsub',
+      outputvis='splited/H2CO_225697.775.ms',
+      spw='0:270~283',
+      datacolumn='data')
+
+split(vis='spw9/spw9.contsub',
+      outputvis='splited/H2CS_236726.770.ms',
+      spw='0:854~865',
+      datacolumn='data')
+
+split(vis='spw11/spw11.contsub',
+      outputvis='splited/H2CS_240266.320.ms',
+      spw='0:1265~1279',
+      datacolumn='data')
+
+split(vis='spw21/spw21.contsub',
+      outputvis='splited/H2CS_244047.840.ms',
+      spw='0:1461~1473',
+      datacolumn='data')
+
+split(vis='spw9/spw9.contsub',
+      outputvis='splited/HCCCN_236512.777.ms',
+      spw='0:1043~1059',
+      datacolumn='data')
+
+split(vis='spw21/spw21.contsub',
+      outputvis='splited/HCCCN_245606.308.ms',
+      spw='0:66~81',
+      datacolumn='data')
+
+split(vis='spw9/spw9.contsub',
+      outputvis='splited/HCOOH_236717.326.ms',
+      spw='0:863~874',
+      datacolumn='data')
+
+split(vis='spw22/spw22.contsub',
+      outputvis='splited/HCOOH_246106.087.ms',
+      spw='0:638~650',
+      datacolumn='data')
+
+split(vis='spw4/spw4.contsub',
+      outputvis='splited/HNCO_218981.031.ms',
+      spw='0:1420~1432',
+      datacolumn='data')
+
+split(vis='spw5/spw5.contsub',
+      outputvis='splited/HNCO_219798.247.ms',
+      spw='0:1686~1697',
+      datacolumn='data')
+
+split(vis='spw5/spw5.contsub',
+      outputvis='splited/HNCO_220585.200.ms',
+      spw='0:982~994',
+      datacolumn='data')
+
+split(vis='spw11/spw11.contsub',
+      outputvis='splited/HNCO_240875.856.ms',
+      spw='0:716~734',
+      datacolumn='data')
+
+split(vis='spw6/spw6.contsub',
+      outputvis='splited/OCS_231060.983.ms',
+      spw='0:1491~1503',
+      datacolumn='data')
+
+split(vis='spw20/spw20.contsub',
+      outputvis='splited/OCS_243218.040.ms',
+      spw='0:1634~1644',
+      datacolumn='data')
+
+split(vis='spw2/spw2.contsub',
+      outputvis='splited/SO_215220.653.ms',
+      spw='0:1631~1646',
+      datacolumn='data')
+
+split(vis='spw5/spw5.contsub',
+      outputvis='splited/SO_219949.442.ms',
+      spw='0:1548~1566',
+      datacolumn='data')
+
+split(vis='spw14/spw14.contsub',
+      outputvis='splited/SO2_221965.210.ms',
+      spw='0:508~523',
+      datacolumn='data')
+
+split(vis='spw15/spw15.contsub',
+      outputvis='splited/SO2_224264.811.ms',
+      spw='0:1268~1281',
+      datacolumn='data')
+
+split(vis='spw15/spw15.contsub',
+      outputvis='splited/SO2_225153.702.ms',
+      spw='0:471~487',
+      datacolumn='data')
+
+split(vis='spw16/spw16.contsub',
+      outputvis='splited/SO2_226300.027.ms',
+      spw='0:808~825',
+      datacolumn='data')
+
+split(vis='spw8/spw8.contsub',
+      outputvis='splited/SO2_235151.720.ms',
+      spw='0:1572~1584',
+      datacolumn='data')
+
+split(vis='spw9/spw9.contsub',
+      outputvis='splited/SO2_236216.685.ms',
+      spw='0:1309~1323',
+      datacolumn='data')
+
+split(vis='spw9/spw9.contsub',
+      outputvis='splited/SO2_237068.870.ms',
+      spw='0:548~560',
+      datacolumn='data')
+
+split(vis='spw11/spw11.contsub',
+      outputvis='splited/SO2_241615.798.ms',
+      spw='0:58~72',
+      datacolumn='data')
+
+split(vis='spw21/spw21.contsub',
+      outputvis='splited/SO2_244254.218.ms',
+      spw='0:1278~1292',
+      datacolumn='data')
+
+split(vis='spw21/spw21.contsub',
+      outputvis='splited/SO2_245563.423.ms',
+      spw='0:104~118',
+      datacolumn='data')
+
+split(vis='spw5/spw5.contsub',
+      outputvis='splited/CH3CN_blend_220743.011.ms',
+      spw='0:835~852',
+      datacolumn='data')
+
+split(vis='spw11/spw11.contsub',
+      outputvis='splited/CH3OH_blend_241206.035.ms',
+      spw='0:427~436',
+      datacolumn='data')
+
+split(vis='spw23/spw23.contsub',
+      outputvis='splited/CH3OH_blend_248282.424.ms',
+      spw='0:1252~1262',
+      datacolumn='data')
+
+split(vis='spw9/spw9.contsub',
+      outputvis='splited/CH3CHO_blend_235996.212.ms',
+      spw='0:1508~1519',
+      datacolumn='data')
+
+split(vis='spw11/spw11.contsub',
+      outputvis='splited/CH3OCH3_blend_240978.250.ms',
+      spw='0:620~633',
+      datacolumn='data')
+
+split(vis='spw20/spw20.contsub',
+      outputvis='splited/CH3OCH3_blend_241946.201.ms',
+      spw='0:495~505',
+      datacolumn='data')
+
+split(vis='spw20/spw20.contsub',
+      outputvis='splited/CH3OH_blend_241806.525.ms',
+      spw='0:371~379',
+      datacolumn='data')
+
+split(vis='spw20/spw20.contsub',
+      outputvis='splited/CH3OH_blend_241832.718.ms',
+      spw='0:391~405',
+      datacolumn='data')
+
+split(vis='spw20/spw20.contsub',
+      outputvis='splited/CH3OH_blend_241904.147.ms',
+      spw='0:457~469',
+      datacolumn='data')
+

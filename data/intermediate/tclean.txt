@@ -1,0 +1,770 @@
+tclean(vis='splited/CH2CO_224327.250.ms',
+       imagename='images/CH2CO_224327.250',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/g-CH3CH2OH_243120.317.ms',
+       imagename='images/g-CH3CH2OH_243120.317',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=14,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/t-CH3CH2OH_234255.161.ms',
+       imagename='images/t-CH3CH2OH_234255.161',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=9,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CHO_226592.725.ms',
+       imagename='images/CH3CHO_226592.725',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CHO_234825.872.ms',
+       imagename='images/CH3CHO_234825.872',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=14,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CHO_244789.251.ms',
+       imagename='images/CH3CHO_244789.251',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=8,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CHO_244832.176.ms',
+       imagename='images/CH3CHO_244832.176',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CN_220679.287.ms',
+       imagename='images/CH3CN_220679.287',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CN_220709.017.ms',
+       imagename='images/CH3CN_220709.017',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=9,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CN_220730.261.ms',
+       imagename='images/CH3CN_220730.261',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CN_239064.299.ms',
+       imagename='images/CH3CN_239064.299',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CN_239096.497.ms',
+       imagename='images/CH3CN_239096.497',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CN_239119.505.ms',
+       imagename='images/CH3CN_239119.505',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CN_239137.917.ms',
+       imagename='images/CH3CN_239137.917',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=14,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OCHO_216966.246.ms',
+       imagename='images/CH3OCHO_216966.246',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OCHO_227563.734.ms',
+       imagename='images/CH3OCHO_227563.734',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_213427.061.ms',
+       imagename='images/CH3OH_213427.061',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=14,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_217299.205.ms',
+       imagename='images/CH3OH_217299.205',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_220078.561.ms',
+       imagename='images/CH3OH_220078.561',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=12,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_227814.528.ms',
+       imagename='images/CH3OH_227814.528',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_229589.056.ms',
+       imagename='images/CH3OH_229589.056',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=12,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_231281.110.ms',
+       imagename='images/CH3OH_231281.110',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=12,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_232945.797.ms',
+       imagename='images/CH3OH_232945.797',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_234683.370.ms',
+       imagename='images/CH3OH_234683.370',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_234698.519.ms',
+       imagename='images/CH3OH_234698.519',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_236936.089.ms',
+       imagename='images/CH3OH_236936.089',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_239746.219.ms',
+       imagename='images/CH3OH_239746.219',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_240241.490.ms',
+       imagename='images/CH3OH_240241.490',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=9,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_240960.557.ms',
+       imagename='images/CH3OH_240960.557',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_241813.255.ms',
+       imagename='images/CH3OH_241813.255',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=8,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_241843.604.ms',
+       imagename='images/CH3OH_241843.604',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_241852.299.ms',
+       imagename='images/CH3OH_241852.299',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=9,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_243915.788.ms',
+       imagename='images/CH3OH_243915.788',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_247161.950.ms',
+       imagename='images/CH3OH_247161.950',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=12,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_247228.587.ms',
+       imagename='images/CH3OH_247228.587',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_248885.468.ms',
+       imagename='images/CH3OH_248885.468',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_249419.924.ms',
+       imagename='images/CH3OH_249419.924',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CS_244935.644.ms',
+       imagename='images/CS_244935.644',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/H132CO_219908.525.ms',
+       imagename='images/H132CO_219908.525',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/H2CO_211211.468.ms',
+       imagename='images/H2CO_211211.468',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/H2CO_218475.632.ms',
+       imagename='images/H2CO_218475.632',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=9,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/H2CO_218760.066.ms',
+       imagename='images/H2CO_218760.066',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/H2CO_225697.775.ms',
+       imagename='images/H2CO_225697.775',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=12,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/H2CS_236726.770.ms',
+       imagename='images/H2CS_236726.770',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/H2CS_240266.320.ms',
+       imagename='images/H2CS_240266.320',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/H2CS_244047.840.ms',
+       imagename='images/H2CS_244047.840',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/HCCCN_236512.777.ms',
+       imagename='images/HCCCN_236512.777',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=15,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/HCCCN_245606.308.ms',
+       imagename='images/HCCCN_245606.308',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=14,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/HCOOH_236717.326.ms',
+       imagename='images/HCOOH_236717.326',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/HCOOH_246106.087.ms',
+       imagename='images/HCOOH_246106.087',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/HNCO_218981.031.ms',
+       imagename='images/HNCO_218981.031',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/HNCO_219798.247.ms',
+       imagename='images/HNCO_219798.247',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/HNCO_220585.200.ms',
+       imagename='images/HNCO_220585.200',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/HNCO_240875.856.ms',
+       imagename='images/HNCO_240875.856',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=17,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/OCS_231060.983.ms',
+       imagename='images/OCS_231060.983',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/OCS_243218.040.ms',
+       imagename='images/OCS_243218.040',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=9,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO_215220.653.ms',
+       imagename='images/SO_215220.653',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=14,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO_219949.442.ms',
+       imagename='images/SO_219949.442',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=17,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO2_221965.210.ms',
+       imagename='images/SO2_221965.210',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=14,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO2_224264.811.ms',
+       imagename='images/SO2_224264.811',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=12,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO2_225153.702.ms',
+       imagename='images/SO2_225153.702',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=15,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO2_226300.027.ms',
+       imagename='images/SO2_226300.027',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=16,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO2_235151.720.ms',
+       imagename='images/SO2_235151.720',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO2_236216.685.ms',
+       imagename='images/SO2_236216.685',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO2_237068.870.ms',
+       imagename='images/SO2_237068.870',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO2_241615.798.ms',
+       imagename='images/SO2_241615.798',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO2_244254.218.ms',
+       imagename='images/SO2_244254.218',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/SO2_245563.423.ms',
+       imagename='images/SO2_245563.423',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CN_blend_220743.011.ms',
+       imagename='images/CH3CN_blend_220743.011',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=16,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_blend_241206.035.ms',
+       imagename='images/CH3OH_blend_241206.035',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=8,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_blend_248282.424.ms',
+       imagename='images/CH3OH_blend_248282.424',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=9,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3CHO_blend_235996.212.ms',
+       imagename='images/CH3CHO_blend_235996.212',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=10,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OCH3_blend_240978.250.ms',
+       imagename='images/CH3OCH3_blend_240978.250',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=12,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OCH3_blend_241946.201.ms',
+       imagename='images/CH3OCH3_blend_241946.201',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=9,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_blend_241806.525.ms',
+       imagename='images/CH3OH_blend_241806.525',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=7,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_blend_241832.718.ms',
+       imagename='images/CH3OH_blend_241832.718',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=13,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
+tclean(vis='splited/CH3OH_blend_241904.147.ms',
+       imagename='images/CH3OH_blend_241904.147',
+       specmode='cube',
+       imsize=[120, 120],
+       start=1,
+       nchan=11,
+       cell=0.5,
+       interactive=True,
+       niter=5000)
+
